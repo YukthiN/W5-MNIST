@@ -62,5 +62,9 @@ NumPy · Matplotlib · Seaborn · Sklearn
 - `mnist_confusion.png` — confusion matrix
 - `mnist_predictions.png` — predictions on test images
 
+
+<img width="1430" height="877" alt="image" src="https://github.com/user-attachments/assets/a598ff2b-c595-404a-817f-357235b32a8e" />
+
+
 ## Author
 Yukthi N ·
